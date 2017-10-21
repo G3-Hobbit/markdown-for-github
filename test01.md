@@ -8,3 +8,10 @@ Texの記法を試す
 &=& (a+a)+(a+a)
 \end{eqnarray}
 ```
+
+$$
+\begin{eqnarray}
+4a &=& ((a+a)+a)+a \\
+   &=& (a+a)+(a+a)
+\end{eqnarray}
+$$
